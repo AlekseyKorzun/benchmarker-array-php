@@ -20,6 +20,6 @@ directory of this distribution to generate vendor/ directory with a cross system
 CLI parameters
 ----
 
--t type of array to benchmark (plain, object, fixed or judy)
--m type of benchmark to perform (instance, append, iteration, removal)
--i number of iterations to perform during the benchmark
++ -t type of array to benchmark (plain, object, fixed or judy)
++ -m type of benchmark to perform (instance, append, iteration, removal)
++ -i number of iterations to perform during the benchmark
